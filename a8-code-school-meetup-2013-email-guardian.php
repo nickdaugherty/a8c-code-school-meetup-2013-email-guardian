@@ -5,7 +5,7 @@ Plugin Name: Email Guardian
 Description: A8C Meetup 2013 Code Academy Project
 Version: 0.1
 License: GPL
-Author: nickdaugherty, ashthemighty
+Author: nickdaugherty, ashthemighty, kristastevens
 
 Copyright 2010-2013 Automattic
 
